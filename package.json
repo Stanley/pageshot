@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "dependencies": { 
     "phantom": "0.3.4",
-    "express": "2.5.10"
+    "express": "2.5.10",
+    "imagemagick": "0.1.2"
   }
 }
