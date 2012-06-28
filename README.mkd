@@ -3,16 +3,19 @@ Pageshot
 
 Generates thumbnail of a given website.
 
-Usage
------
+Installation
+------------
 
-Clone and install dependencies:
+First, install
+[PhantomJS](http://code.google.com/p/phantomjs/wiki/Installation), then
+clone this repository and install its npm dependencies:
 
     $ git clone https://github.com/Stanley/pageshot.git
     $ cd pageshot/
     $ npm install
 
-Start server:
+Usage
+-----
 
     $ node app.js
 
