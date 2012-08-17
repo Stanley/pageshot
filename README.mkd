@@ -19,7 +19,21 @@ Usage
 
     $ node app.js
 
-Open in a browser: <http://localhost:3000/https://github.com/Stanley/pageshot>.
+Open in a browser: <http://localhost:3000/?url=https://github.com/Stanley/pageshot>.
+
+Options
+-------
+
+Required:
+
+* *url*
+
+Optional:
+
+* *resize[width]*
+* *resize[height]*
+* *crop[width]*
+* *crop[height]*
 
 License
 -------
