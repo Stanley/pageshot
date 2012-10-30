@@ -2,8 +2,8 @@
   "name": "Pageshot",
   "version": "0.0.1",
   "dependencies": { 
-    "phantom": "git://github.com/markdalgleish/phantomjs-node.git",
-    "express": "2.5.10",
+    "phantom": "git://github.com/sebv/phantomjs-node.git",
+    "express": "*",
     "imagemagick": "git://github.com/ikr/node-imagemagick.git",
     "underscore": "*"
   }
